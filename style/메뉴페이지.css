@@ -74,3 +74,10 @@ a {
   height: 2px;
   background-color: antiquewhite;
 }
+
+.scroll-x {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+
+}
